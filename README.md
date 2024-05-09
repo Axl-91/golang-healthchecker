@@ -1,5 +1,5 @@
 # golang-healthchecker
-A Health Checker in Go
+A simple health checker in Go
 
 ## How to use it
 It can be ussed by running on the terminal.
